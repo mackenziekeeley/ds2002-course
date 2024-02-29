@@ -24,3 +24,5 @@ presign = s3.generate_presigned_url(
 )
 
 print(presign)
+
+#presigned url https://ds2002-spr2kv.s3.amazonaws.com/https%3A//media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHE5d2htajl3NjN4cjFsYm5iOHB6ZXo4N3BhMW44ZG5oOTAxOWFsaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t3sZxY5zS5B0z5zMIz/giphy.gif?AWSAccessKeyId=AKIAVRUVRY2GJYCRYWOE&Signature=d4uGLCIXewObgOev6L18mPfzMgY%3D&Expires=1709847992

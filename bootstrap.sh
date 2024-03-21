@@ -4,6 +4,6 @@
 /usr/bin/apt upgrade -y
 /usr/bin/apt install -y python3 python3-pip
 /usr/bin/apt install -y git
-/usr/bin/apt pip3 install boto3
+/usr/bin/python3 -m pip install jq 
 
 chmod 755 bootstrap.sh
